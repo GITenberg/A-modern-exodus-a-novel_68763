@@ -1,0 +1,32 @@
+_repo: A-modern-exodus-a-novel_68763
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guttenberg, Violet
+    gutenberg_agent_id: '54936'
+    url: http://www.gutenberg.org/2009/agents/54936
+description: ''
+gutenberg_issued: '2022-08-16'
+identifiers:
+  gutenberg: '68763'
+language: en
+pgterms:marc904: https://archive.org/details/modernexodusnove00gutt
+pgterms:marc905: 20181201223752guttenberg
+pgterms:marc906: '1904'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Greening & Co.,1904.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- England -- Fiction'
+- !lcsh 'Antisemitism -- Fiction'
+- !lcsh 'Speculative fiction'
+- !lcsh 'Zionism -- Fiction'
+- !lcsh 'Jews -- Palestine -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'A modern exodus: a novel'
+url: http://www.gutenberg.org/ebooks/68763
